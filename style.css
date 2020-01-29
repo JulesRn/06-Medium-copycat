@@ -1,0 +1,30 @@
+body {
+color: #494949;
+font-size: 18px;
+line-height: 1.6;
+font-weight: lighter;
+font-family: 'Lora', serif;
+margin: 0;
+}
+
+.banner {
+background-image: url("https://i.picsum.photos/id/1025/1000/500.jpg");
+background-size: cover;
+color: white;
+padding: 120px 0;
+}
+
+a.link-medium {
+  background-color: #444444;
+  text-decoration: none;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 3px;
+  margin-left: 40%;
+
+}
+
+.container {
+width: 700px;
+margin: 50px auto;
+}
